@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 
 :root {
-  --primary-color: #22254b;
-  --secondary-color: #373b69;
+  --primary-color: #949398FF;
+  --secondary-color: #F4DF4EFF;
 }
 
 * {
@@ -62,7 +62,7 @@ main {
 }
 
 .movie-info {
-  color: #eee;
+  color: #000;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -87,7 +87,7 @@ main {
 }
 
 .movie-info span.orange {
-  color: orange;
+  color: #F4DF4EFF;
 }
 
 .movie-info span.red {
